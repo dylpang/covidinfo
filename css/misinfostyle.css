@@ -48,6 +48,7 @@ body, html {
   display: flex;
   flex-direction: column;
   width: 100%;
+  overflow-x: hidden;
 }
 
 
@@ -80,7 +81,7 @@ h4 {
   padding: 0 10rem 0 10rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .cardleft{
